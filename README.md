@@ -8,4 +8,12 @@ esse projeto foi feito usando as seguintes ferramentas
 - shadcn-ui
 - Tailwind CSS
 
+- Participantes
+Rodrigo Nascimento
+Yuri Bispo
+Daniel Barros Moreira
+Reginaldo Santos de Jesus
+
+
+
 
