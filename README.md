@@ -9,9 +9,9 @@ esse projeto foi feito usando as seguintes ferramentas
 - Tailwind CSS
 
 - Participantes
-Rodrigo Nascimento
-Yuri Bispo
-Daniel Barros Moreira
+Rodrigo Nascimento,
+Yuri Bispo,
+Daniel Barros Moreira,
 Reginaldo Santos de Jesus
 
 
